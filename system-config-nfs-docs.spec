@@ -4,7 +4,7 @@ Version: 1.0.9
 Release: %mkrel 1
 URL: https://fedorahosted.org/%{name}
 License: GPLv2+
-Group: Documentation
+Group: Books/Howtos
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch: noarch
 Source0: http://fedorahosted.org/released/%{name}/%{name}-%{version}.tar.bz2
