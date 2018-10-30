@@ -1,7 +1,7 @@
 Summary:	Documentation for configuring an NFS server
 Name:		system-config-nfs-docs
 Version:	1.0.9
-Release:	12
+Release:	13
 License:	GPLv2+
 Group:		Books/Howtos
 URL:		https://fedorahosted.org/%{name}
